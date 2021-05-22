@@ -8,7 +8,6 @@ After algining our team, we started with a deep research on environmental/sustai
 
 ## Storyboard
 ![Final storyboard](https://github.com/gxc-int-innovation-challenge21/gxc-team-21/blob/fd13ad5a67dc659f075303062a4a407e42587fe8/StoryboardPacemakers_final.jpeg)
-
 Please find further explanation to each step of the storyboard [here](https://github.com/gxc-int-innovation-challenge21/gxc-team-21/wiki/Storyboard).
 
 # Boostive - Connect to sport events and local sport clubs
