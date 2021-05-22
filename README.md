@@ -8,7 +8,7 @@ After aligning our team, we started with a deep research on environmental/sustai
 
 ## Storyboard
 
-<img src="https://github.com/gxc-int-innovation-challenge21/gxc-team-21/blob/main/StoryboardPacemakers_final.jpeg" align="center" >
+<img src="https://github.com/gxc-int-innovation-challenge21/gxc-team-21/blob/main/StoryboardPacemakers.PNG" align="center" >
 
 Please find further explanation to each step of the storyboard [here](https://github.com/gxc-int-innovation-challenge21/gxc-team-21/wiki/Storyboard).
 
