@@ -1,4 +1,4 @@
-# About Boostive <img src="https://github.com/gxc-int-innovation-challenge21/gxc-team-21/blob/b139b1e31937f50e68ba996b58c4dc57f2b9903f/documentation/prototype/app_icon.PNG" align="right" height="180" width="228" >
+# About Boostive <img src="https://github.com/gxc-int-innovation-challenge21/gxc-team-21/blob/main/documentation/prototype/app_icon.PNG" align="right" height="180" width="228" >
 
 Welcome to the repository of Boostive, the hybrid mobile app that motivate especially digital natives to life a more active and healthy lifestyle. We are a young **value driven start-up** that was founded after participate in the [GXC International Virtual Innovation Challenge](https://www.hm.edu/en/international/projects_1/gxc/gxc_virtual_innovation_challenge.en.htm). 
 
@@ -8,7 +8,7 @@ After aligning our team, we started with a deep research on environmental/sustai
 
 ## Storyboard
 
-<img src="https://github.com/gxc-int-innovation-challenge21/gxc-team-21/blob/fd13ad5a67dc659f075303062a4a407e42587fe8/StoryboardPacemakers_final.jpeg" align="center" >
+<img src="https://github.com/gxc-int-innovation-challenge21/gxc-team-21/blob/main/StoryboardPacemakers_final.jpeg" align="center" >
 
 Please find further explanation to each step of the storyboard [here](https://github.com/gxc-int-innovation-challenge21/gxc-team-21/wiki/Storyboard).
 
