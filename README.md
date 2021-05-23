@@ -8,7 +8,7 @@ After aligning our team, we started with a deep research on environmental/sustai
 
 ## Storyboard
 
-<img src="https://github.com/gxc-int-innovation-challenge21/gxc-team-21/blob/main/StoryboardPacemakers.PNG" align="center" >
+<img src="StoryboardPacemakers.PNG" align="center" >
 
 Please find further explanation to each step of the storyboard [here](https://github.com/gxc-int-innovation-challenge21/gxc-team-21/wiki/Storyboard).
 
@@ -18,10 +18,10 @@ Boostive is going to motivate the users by providing different activities and tr
 
 **All those features will boost all users to be more active and connect to new sport communities.**
 
-<img src="https://github.com/gxc-int-innovation-challenge21/gxc-team-21/blob/c64ecf7000be7894f11eddb7969b668703be017a/documentation/boostive_functionality.PNG" align="center" >
+<img src="documentation/boostive_functionality.PNG" align="center" >
 
 
-![cooperation](https://github.com/gxc-int-innovation-challenge21/gxc-team-21/blob/2af64a50acb5375ff00c90189eacb08c3afe8755/documentation/cooperation.png)
+![cooperation](documentation/cooperation.png)
 
 ### [Boostive Wiki](https://github.com/gxc-int-innovation-challenge21/gxc-team-21/wiki)
 
