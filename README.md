@@ -21,8 +21,17 @@ Boostive is going to motivate the users by providing different activities and tr
 <img src="documentation/boostive_functionality.PNG" align="center" >
 
 
-![cooperation](documentation/cooperation.png)
+
+<img src="documentation/QR-Code.PNG" height="140" width="140" align="right" >
+
+
+
+Please use the QR-Code or [this link](https://boostive.glideapp.io/) to test the boostive protoype, but make sure to check the full explanation on [how to use the protoype](https://github.com/gxc-int-innovation-challenge21/gxc-team-21/wiki/Prototyping-a-Solution#Interactive-prototype-and-Instructions).
 
 ### [Boostive Wiki](https://github.com/gxc-int-innovation-challenge21/gxc-team-21/wiki)
 
 ### [Boostive GitHub pages](https://gxc-int-innovation-challenge21.github.io/gxc-team-21/)
+
+
+
+![cooperation](documentation/cooperation.png)
